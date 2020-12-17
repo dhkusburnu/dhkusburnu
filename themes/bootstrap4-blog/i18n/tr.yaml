@@ -1,0 +1,50 @@
+- id: about
+  translation: "Hakkında"
+
+- id: home
+  translation: "Anasayfa"
+
+- id: recentPosts
+  translation: "Son Yazılar"
+
+- id: readMore
+  translation: "Devamını oku →"
+
+- id: translations
+  translation: "Çeviriler"
+
+- id: share
+  translation: "Paylaş"
+
+- id: paginatorPrevious
+  translation: "Önceki sayfa"
+
+- id: paginatorNext
+  translation: "Sonraki sayfa"
+
+- id: cookieMessage
+  translation: "This website uses cookies."
+
+- id: cookieLink
+  translation: "Learn more."
+
+- id: cookieAccept
+  translation: "Agree"
+
+- id: cookieDecline
+  translation: "Disagree"
+
+- id: backToTop
+  translation: "Üste dön"
+
+- id: links
+  translation: "Links"
+
+- id: authoredBy
+  translation: "by"
+
+- id: postedIn
+  translation: "in"
+
+- id: comma
+  translation: ","

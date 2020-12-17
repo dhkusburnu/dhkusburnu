@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+theme = "bootstrap4-blog"
+DefaultContentLanguage = "tr"
+
+[languages]
+  [languages.en]
+    title = "My New Hugo Site"
+    languageName = "English"
+    weight = 1
+  [languages.tr]
+    title = "Yeni Hugo Sitem"
+    languageName = "Turkish"
+    weight = 2
