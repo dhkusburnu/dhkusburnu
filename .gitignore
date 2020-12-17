@@ -13,4 +13,5 @@ hugo.exe
 hugo.darwin
 hugo.linux
 
-# End of https://www.toptal.com/developers/gitignore/api/hugo
+# End of https://www.toptal.com/developers/gitignore/api/hugopublic
+public
