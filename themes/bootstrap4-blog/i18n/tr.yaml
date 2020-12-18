@@ -23,28 +23,28 @@
   translation: "Sonraki sayfa"
 
 - id: cookieMessage
-  translation: "This website uses cookies."
+  translation: "Bu web sitesi çerezleri kullanır."
 
 - id: cookieLink
-  translation: "Learn more."
+  translation: "Daha fazla."
 
 - id: cookieAccept
-  translation: "Agree"
+  translation: "Kabul"
 
 - id: cookieDecline
-  translation: "Disagree"
+  translation: "Ret"
 
 - id: backToTop
   translation: "Üste dön"
 
 - id: links
-  translation: "Links"
+  translation: "Bağlantılar"
 
 - id: authoredBy
-  translation: "by"
+  translation: "tarafından"
 
 - id: postedIn
-  translation: "in"
+  translation: "içinde"
 
 - id: comma
   translation: ","
