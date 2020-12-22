@@ -7,3 +7,28 @@
     color: #ffffff;
     background: #333333;
   }
+
+  @font-face {
+    font-family: 'Lora';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('subset-Lora-Bold.eot');
+    src: url('subset-Lora-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-Lora-Bold.woff2') format('woff2'),
+        url('subset-Lora-Bold.woff') format('woff'),
+        url('subset-Lora-Bold.ttf') format('truetype');
+  }
+
+  .section-highlight {
+    background-color: #65182c;
+    padding: 40px 20px;
+    color: #ffffff;
+    
+  
+  }
+  .section-highlight .intTitle{
+    font-size: 4em;
+    font-family: 'Lora', serif;
+  }
+  
