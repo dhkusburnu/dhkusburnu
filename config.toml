@@ -17,12 +17,12 @@ contactlink = 'contactLinkText'
   [languages.en]
     title = "kuşburnu magazine"
     languageName = "English"
-    weight = 1
+    weight = 2
 
   [languages.tr]
     title = "kuşburnu dergisi"
     languageName = "Turkish"
-    weight = 2
+    weight = 1
 
 
 [params.social]
