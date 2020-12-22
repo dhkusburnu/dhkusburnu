@@ -1,13 +1,39 @@
 baseURL = "http://example.org/"
-theme = "bootstrap4-blog"
+theme = "kiss"
+title = "kuşburnu"
 DefaultContentLanguage = "tr"
+Paginate = 6 # Number of posts per page
+
+[params.assets]
+customCSS = ["css/custom.css"]
+
+[params.sections_left]
+"sitemap.xml" = ''
+
+[params.sections_right]
+contactlink = 'contactLinkText'
 
 [languages]
   [languages.en]
-    title = "My New Hugo Site"
+    title = "kuşburnu magazine"
     languageName = "English"
     weight = 1
+
   [languages.tr]
-    title = "Yeni Hugo Sitem"
+    title = "kuşburnu dergisi"
     languageName = "Turkish"
     weight = 2
+
+
+[params.social]
+twitter = "kusburnudergi"
+github = ""
+email = ""
+linkedin = ""
+facebook = ""
+instagram = "kusburnudergi"
+codepen = ""
+rss = "index.xml" # Add this to show RSS button in social.
+
+[params.social.config]
+platforms = ["twitter","instagram","email"]
