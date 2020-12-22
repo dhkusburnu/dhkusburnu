@@ -13,11 +13,8 @@
     font-style: normal;
     font-weight: 700;
     font-display: swap;
-    src: url('subset-Lora-Bold.eot');
-    src: url('subset-Lora-Bold.eot?#iefix') format('embedded-opentype'),
-        url('subset-Lora-Bold.woff2') format('woff2'),
-        url('subset-Lora-Bold.woff') format('woff'),
-        url('subset-Lora-Bold.ttf') format('truetype');
+    src: local('Lora Bold'), local('Lora-Bold'),
+      url('/fonts/lora-v13-latin-700.woff') format('woff');
   }
 
   .section-highlight {
