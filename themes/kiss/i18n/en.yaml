@@ -6,3 +6,12 @@
 
 - id: contactLinkText
   translation: "contact"
+
+- id: readMore
+  translation: "Read more"
+
+- id: olderBut
+  translation: "Older"
+
+- id: newerBut
+  translation: "Newer"

@@ -6,3 +6,12 @@
 
 - id: contactLinkText
   translation: "iletişim"
+
+- id: readMore
+  translation: "Devamını oku"
+
+- id: olderBut
+  translation: "Daha eskiler"
+
+- id: newerBut
+  translation: "Daha yeniler"

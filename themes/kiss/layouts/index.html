@@ -4,12 +4,12 @@
     
   <div  class ="container">
       
-      <h2 class="intTitle">A simple starter kit for Eleventy</h2>
+      <h2 class="intTitle">Dergi hakkında kısa bir açıklama ya da slogan.</h2>
   
   </div>
 </section>
 <section class="section">
-  <div class="container">
+  <div class="columns is-multiline is-mobile">
     {{- $pages := . -}}
     {{- if .IsHome -}}
     {{- $pages = .Site.RegularPages -}}
@@ -18,7 +18,7 @@
     {{- end -}}
     {{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
     {{ range sort .Paginator.Pages }}
-    <article>
+    <article class="column is-one-third-widescreen is-half-desktop is-half-tablet is-full-mobile is-offset-1-widescreen">
       <div class="subtitle tags is-6 is-pulled-right">
         {{ if .Params.tags }}
         {{ partial "tags" .Params.tags }}
@@ -30,7 +30,7 @@
         {{ .Summary | plainify | safeHTML }}
         {{ if .Truncated }}
         <a class="button is-link" href="{{ .Permalink }}" style="height:28px">
-          Read more
+          {{ i18n "readMore" }}
         </a>
         {{ end }}
       </div>

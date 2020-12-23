@@ -2,7 +2,6 @@
 title: "Mountains Melting"
 date: 2020-12-16T02:20:32+03:00
 author: dadak
-draft: true
 slug: mountains-melting
 ---
 

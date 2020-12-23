@@ -18,14 +18,30 @@
   }
 
   .section-highlight {
-    background-color: #65182c;
+    background-color: #314933;
     padding: 40px 20px;
     color: #ffffff;
     
   
   }
   .section-highlight .intTitle{
-    font-size: 4em;
+    font-size: 2em;
     font-family: 'Lora', serif;
   }
-  
+
+.nav, .header {
+  background-color: #65182c;
+  color: #ffffff;
+}
+
+.header img {
+  max-height: 100em;
+}
+
+.level-item, .nav-item h2 {
+  color: #ffffff !important;
+}
+
+.section {
+  padding: 20px 20px;
+}

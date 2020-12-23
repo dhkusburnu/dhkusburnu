@@ -3,6 +3,7 @@ theme = "kiss"
 title = "kuşburnu"
 DefaultContentLanguage = "tr"
 Paginate = 6 # Number of posts per page
+summaryLength = 30
 
 [params.assets]
 customCSS = ["css/custom.css"]
