@@ -8,7 +8,7 @@ Paginate = 6 # Number of posts per page
 customCSS = ["css/custom.css"]
 
 [params.sections_left]
-"sitemap.xml" = ''
+"sitemap.xml" = '‎'
 
 [params.sections_right]
 contactlink = 'contactLinkText'

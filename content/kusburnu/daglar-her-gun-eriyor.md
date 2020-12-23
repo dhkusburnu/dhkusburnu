@@ -3,6 +3,7 @@ title: "Dağlar Her Gün Eriyor"
 date: 2020-12-16T02:20:32+03:00
 author: dadak
 draft: true
+tags: ["dağlar", "doğa"]
 ---
 
 # Res ira secum
