@@ -6449,11 +6449,7 @@ html {
   border-bottom-color: #2077b2;
 }
 
-.container {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
+/*
 .content h1:not(:first-child),
 .content h2:not(:first-child),
 .content h3:not(:first-child),
@@ -6463,6 +6459,7 @@ html {
 article+article {
   margin-top: 80px;
 }
+*/
 
 .content {
   font-size: 16px;

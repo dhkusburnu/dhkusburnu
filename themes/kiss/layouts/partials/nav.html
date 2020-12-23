@@ -4,7 +4,7 @@
       <div id="nav-name" class="nav-left">
         <a id="nav-anchor" class="nav-item" href="{{ "/" | absLangURL }}">
           <figure class="image">
-            <img src="logo.png">
+            <img src="/logo-b.png">
           </figure>
         </a>
       </div>
@@ -26,7 +26,7 @@
         </nav>
       </div>
     </nav>
-
+    <!--
     <nav class="nav">
       {{ if (isset .Site.Params "sections_left" ) }}
       <div class="nav-left">
@@ -39,7 +39,7 @@
         {{- end -}}
       </div>
       {{ end }}
-
+    -->
       {{ if (isset .Site.Params "sections_right" ) }}
       <div class="nav-right">
         {{- range $section, $printable := .Site.Params.sections_right -}}

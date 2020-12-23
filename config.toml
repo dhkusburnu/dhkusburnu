@@ -8,12 +8,6 @@ summaryLength = 30
 [params.assets]
 customCSS = ["css/custom.css"]
 
-[params.sections_left]
-"sitemap.xml" = '‎'
-
-[params.sections_right]
-contactlink = 'contactLinkText'
-
 [languages]
   [languages.en]
     title = "kuşburnu magazine"
